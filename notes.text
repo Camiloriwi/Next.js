@@ -1,0 +1,6 @@
+
+insomnia instalar
+npm i @nestjs/cli
+ nest new 
+  nest generate controllers
+  
